@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Car
+namespace SolidPrinciples
 {
     //In this code, the Open-Closed Principle is applied by using an abstract base class for the car and allowing 
     //specific car models to inherit from it and override its methods. 

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Car
+namespace SolidPrinciples
 {
     // In this code, the Single Responsibility Principle is applied by separating 
     // the car's braking system and engine into separate classes, with each class responsible 
