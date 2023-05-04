@@ -18,7 +18,7 @@ namespace SolidPrinciples
         // Property for the car's model
         public string Model { get; set; }
 
-        // Property for the car's year of production
+        // Property for the year of production
         public int Year { get; set; }
 
         // Method for accelerating the car
