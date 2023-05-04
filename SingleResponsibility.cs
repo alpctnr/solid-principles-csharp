@@ -11,7 +11,7 @@ namespace SolidPrinciples
     // The class names and method names are named according to their respective responsibilities, 
     //and the comments describe the purpose of each method.
 
-    // Define a class for the car's braking system
+    // Define a class for the braking system
     public class BrakeSystem
     {
         // Method for applying the brakes
